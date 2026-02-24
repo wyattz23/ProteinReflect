@@ -1,6 +1,6 @@
 # Reflection Pretraining
 
-This is the codebase and model weight for paper **Enabling Thinking, Reflecting and Chain-of-Thought Reasoning with Biological Sequences**
+This is the codebase and model weight for **Enabling Token Level Error Correction in Biological Sequences Models**
 
 ![reflect](./assets/fig4.png)
 
