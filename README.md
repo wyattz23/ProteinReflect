@@ -51,11 +51,7 @@ Execute the following command in the terminal:
 python -m ReflectionPT.ReflectionPT --mode=eval --peak_path=./bacillus.10k.mgf --model=./reflection_massive.ckpt
 ```
 
-### Results
 
-We provide a example output of the model here: https://drive.google.com/file/d/1Dp2k46wxlV8dxSGiaPVZt-BM8uXL6mmb/view?usp=sharing
-
-The "back" token from output is reflection token. 
 
 
 
