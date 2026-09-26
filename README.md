@@ -1,6 +1,6 @@
 # Reflection Pretraining
 
-This is the codebase and model weight for **Enabling Token Level Error Correction in Biological Sequences Models**
+This is the codebase and model weight for reflection pretraining 
 
 ![reflect](./assets/fig4.png)
 
